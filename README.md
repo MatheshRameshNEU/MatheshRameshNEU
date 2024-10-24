@@ -1,7 +1,7 @@
-# Mathesh Ramesh GitHub Profile! 👋
+# Mathesh Ramesh GitHub Profile!
 
 ## About Me
-Hi there! 👋 I'm Mathesh Ramesh, a passionate software engineer with over 4 years of experience in the Salesforce ecosystem.
+Hi there! I'm Mathesh Ramesh, a passionate software engineer with over 4 years of experience in the Salesforce ecosystem.
 I thrive on solving complex problems and building innovative solutions with Salesforce technology. Specializing in Lightning Experience, Lightning Web Components (LWC), Apex, SOQL, SOSL, test class development, and SFDC configuration, I enjoy working on projects that make a real impact.
 
 Throughout my career, I’ve been actively involved in all phases of the Software Development Life Cycle (SDLC), ensuring that the applications I develop meet industry standards. I'm a fast learner who loves to explore the latest developments in Salesforce technology, continuously pushing myself to grow and adapt.
