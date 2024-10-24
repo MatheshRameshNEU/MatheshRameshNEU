@@ -32,7 +32,7 @@ Throughout my career, I’ve been actively involved in all phases of the Softwar
 
 - **Cloud Orchestration**
 
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+  ![Packer](https://img.shields.io/badge/-Packer-2496ED?style=flat-square&logo=packer)
   ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
   ![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazons3)
   
@@ -44,14 +44,12 @@ Throughout my career, I’ve been actively involved in all phases of the Softwar
 
 - **API**
   
-  ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai)
   ![Stripe API](https://img.shields.io/badge/-Stripe%20API-008CDD?style=flat-square&logo=stripe)
 
   
 - **Tools**  
 
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
-  ![Browserstack](https://img.shields.io/badge/-Browserstack-FF6C37?style=flat-square&logo=browserstack)
   ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome)
   ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
