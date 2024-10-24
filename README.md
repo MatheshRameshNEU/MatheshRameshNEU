@@ -28,7 +28,7 @@ Throughout my career, I’ve been actively involved in all phases of the Softwar
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
   ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-  ![Apex](https://img.shields.io/badge/-Apex-E34A86?style=flat-square&logo=Apex)
+  ![Apex](https://img.shields.io/badge/-Apex-7B42BC?style=flat-square&logo=Apex)
 
 - **Cloud Orchestration**
 
